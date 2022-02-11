@@ -5,7 +5,7 @@
 ## Project Description
 
 This project employs a dataset of bank customers with their demographic information and their activity history with the bank account. The goal of this project is to build two classification models - random forest and logistic regression - to predict whether a customer is likely to churn or not. 
-Testing and logging is inclueded in building machine learning model in production. Separate test file churn_script_logging_and_tests.py is created and logging function is embedded for debugging purpose.  
+Testing and logging is included in building machine learning model in production. Separate test file churn_script_logging_and_tests.py is created and logging function is embedded for debugging purpose.  
 
 ## Running Files
 Step 1: pip install needed python packages, including shap, joblib, pandas, numpy, matplotlib, seaborn, sklearn
