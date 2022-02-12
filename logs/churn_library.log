@@ -1,0 +1,6 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Test perform_eda: SUCCEED
+root - INFO - Test encoder_helper: the original column is contained in the dataframe
+root - INFO - Test encoder_helper: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - Test train_models: SUCCESS
